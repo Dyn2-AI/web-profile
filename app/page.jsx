@@ -12,14 +12,14 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Software Developer</span>
             <h1 className="h1 mb-6">
-              Hello I'm <br />{" "}
+              Hello I am <br />{" "}
               <span className="text-accent">Asep Solahudin</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I excel in web development, have strong skills in several
               programming languages, and a deep interest in security and
-              artificial intelligence. I'm eager to keep learning and growing in
-              the evolving world of technology.
+              artificial intelligence. I am eager to keep learning and growing
+              in the evolving world of technology.
             </p>
             {/* button social media */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
